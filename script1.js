@@ -24,5 +24,5 @@ function remainder(n){
     console.log("prime number")
   }
 }
-remainder(77)
+remainder(9)
 
